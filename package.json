@@ -1,0 +1,9 @@
+{
+  "name": "aiyingbao-api",
+  "version": "4.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node vision-proxy-server.js"
+  },
+  "dependencies": {}
+}
